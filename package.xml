@@ -6,7 +6,7 @@
 
   <maintainer email="amos.smith@dfki.de">Amos Smith</maintainer>
 
-  <license>TODO</license>
+  <license>BSD</license>
 
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>roscpp</build_depend>
